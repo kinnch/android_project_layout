@@ -19,7 +19,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_margin="12dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="12dp"
         android:orientation="vertical">
 
         <TextView
@@ -27,6 +28,7 @@
             android:layout_height="wrap_content"
             android:text="FEATURING"
             android:textSize="16sp"
+            android:layout_marginBottom="-2dp"
             />
 
         <TextView
@@ -34,6 +36,8 @@
             android:layout_height="wrap_content"
             android:text="ALAN WISS"
             android:textColor="#fff"
+            android:layout_marginBottom="-2dp"
+
             android:textSize="16sp" />
 
         <TextView
@@ -41,6 +45,8 @@
             android:layout_height="wrap_content"
             android:text="FAST COMPANY"
             android:textColor="#fff"
+            android:layout_marginBottom="-2dp"
+
             android:textSize="16sp" />
 
         <TextView
